@@ -3,6 +3,7 @@ import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import xinruiImage from '../images/20250613091108.jpg';
 ---
 
 <!doctype html>
@@ -36,7 +37,7 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 			天明登前途，独与老翁别。
 			</p>
 
-			<img src="/images/20250613091108.jpg" alt="lxr.">
+			<img src={xinruiImage} alt="lxr.">
 			<p>Here are a few ideas on how to get started with the template:</p>
 			<ul>
 				<li>Edit this page in <code>src/pages/index.astro</code></li>
