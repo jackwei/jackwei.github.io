@@ -1,16 +1,204 @@
 ---
-title: 'Second post'
+title: '互联网人，为什么你越来越能干，路却越走越窄？换个体制内视角看看'
 description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 15 2022'
+pubDate: '20250703'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+最近和几位在北京工作的体制内朋友聊天——高校教师、国q地产负责人、电视t广告招商人员。他们聊起一些“圈内常规操作”时，我突然意识到一个残酷事实：
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+程序员这个职业，在资源属性的积累上，是极其贫瘠的。
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+你可能以为，体制内的人拿的是“死工资”，但你没看到的是他们背后广泛存在的**“隐性资源变现能力”**。
+我们来看看你我身边最真实的几个例子：
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+国q地产部门的“旺铺游戏”
+一位朋友的父亲在国q地产公司工作，负责某写字楼的商铺管理。他们家族名下连开了三家餐饮店。
+为什么？
+因为每次商铺退租，他总能第一时间知道哪个铺子火、客流大、哪一层转化率高。他不会直接出面租铺，但“亲戚”总能正好接手下来，一做就是几年。
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+你以为这是敏锐眼光，其实是信息提前权 + 内部调配权 + 模糊所有权的组合。
+
+高校老师“做项目”与“做公司”是一体两面
+你以为教授上课科研已经很累了，但他们还有另一个“隐性身份”：半隐性的产业合伙人。
+举例：某老师带学生做人工智能方向研究，企业想申报项目，就得挂靠高校专家；
+这个老师不仅帮写材料、出技术方案，甚至安排学生实习，但实际执行服务方是一家由其“校友”或“朋友”开的公司。
+老师收的不是工资，是项目服务费的一部分。
+这种“人脉+平台+信用”三位一体的结构，程序员根本无从进入。
+公务系统里，谁能牵线谁就值钱
+在一些地方政府、招商部门，很多岗位本身就带“资源属性”。
+
+谁对接外地企业投资，谁就能控制流程节奏；
+谁熟悉政策出台节奏，就能提前告诉企业“去哪个板块设点”；
+谁说话“有口风”，就能吃下无数“请你喝杯c”的邀请。
+
+表面上他们只是“干活”，但实际上他们站在资源通道的“关口”，有话语权，有人脉延展力，就是价值中心。
+
+对比程序员：
+你拼尽全力熬夜改 Bug，做上线 Review，交付出了代码，最后一切归属公司。
+你连客户是谁、用户流量怎么来、项目怎么拿下的都不知道，更不可能用本职资源为自己创造额外价值。
+你是执行层，不是资源层。
+我们太习惯“以技术换薪水”，却忽略了其他职业早已在“用结构换利益”。
+什么是“职业资源属性”？
+一句话：你能否因为职业，长期稳定地接触或掌控有价值的东西，并最终转化为经济利益或社会资本。
+它可能不是工资，但往往决定你未来能不能钱生钱、人拉人、势生势。
+资源属性的六种典型表现如下：
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+资源类型含义举例信息资源谁知道得早、知道得深知道哪块地要修地铁，提前买房人脉资源能和谁说上话，是否能撮合交易招商人把客户介绍给自己人做代工权l资源拥有决策权、审批权、调配权谁能决定哪个品牌进电视台广告位资产资源能低价接触优质资产、稀缺标的国q商业地产优先租给“熟人”平台资源能搭建或借用平台，引流获客教授拉项目、招生、讲课、副业顺带走起信用资源社会天然赋予的信任标签清北教授创业，融资容易、招生容易
+而程序员呢？
+
+接触的全是公司IP、系统、内部工具；
+所有成果属于公司，无法带走；
+没有人脉分发通道，没资产流动权利；
+一旦离职，所有资源归零。
+
+
+为什么有些职业“越做资源越多”，程序员“越做越累”？
+因为他们不在同一个结构中。
+体制类职业，结构模糊，资源可私有化
+
+国q招商负责人，“熟人更好管理”的理由，将黄金商铺租给亲属；
+教授拉来国家项目，实际合作方是自己开的公司；
+媒体人招商广告，用电视台名义对外，自己公司承接执行赚中间c价。
+
+这类灰s操作，你以为是违规？现实中却是“默认激励”，在某些单位甚至被默许、被传承、被鼓励。
+程序员职业，结构封闭，资源清晰“归公司”
+
+公司代码、数据、模型全部有法律归属；
+禁止私自对外提供服务，否则就是违y；
+竞业协议限制副业行为，想搞点副收入都得藏着掖着。
+
+一句话总结：
+
+有的职业坐在“分发资源”的上游，有的职业永远是“干活的乙方”。
+
+典型对比：程序员 vs 有资源职业
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+维度程序员国q/高校/媒体等资源归属公司清晰所有模糊共管，可转私有离职资源归零，干干净净人脉/项目/信用可延续副业可能性易违规，难公关可灰可白，熟人做事资产接触权无，除非创业先知先得，机会多社会身份工具人中间人、桥梁人
+那程序员就真的“毫无资源”？不是，但前提是：你得先跳出专业井口
+我们不是没有积累的可能，而是被专业主义禁锢太久。
+太多程序员困在这样一条线性路径里：
+
+技术更强 → 工资涨点 → 换个更卷的公司 → 周期重复 → 累了 → 找副业 → 发现不擅长。
+
+这个路径最大的问题在于：
+
+你只在“技术的世界”积累，永远接触不到“社会的资源”。
+
+程序员必须尽早“社会化”，开始资源觉醒
+程序员的优势，是聪明、理性、动手能力强；
+但程序员的劣势，是太晚进入社会，太晚意识到资源结构的存在与运作逻辑。
+你身边的机会、人脉、隐性规则、平台分发、行业话语权……从来不是写代码能获得的，而是混社会混出来的。
+所以，年轻程序员要做的，除了加班学技术，更要：
+
+去酒局、去活动、去行业场，看谁在说话，谁能牵线，谁能推资源；
+去理解一个小饭馆老板是怎么在写字楼人流下“选址”+“转租”+“上下游合作”；
+去请教一个搞高校项目的老师，企业为什么愿意给他送钱；
+去看你非技术的朋友，是怎么通过关系、平台、组织完成变现闭环的。
+
+
+你不是不行，你只是太晚知道这世界怎么运作。
+
+技术是你起家的武器，不该是你困住自己的围墙
+程序员有个“高洁幻觉”——我只靠技术，不靠人情世故。
+但你会发现，技术变现的路径越来越短、越来越卷，天花板越来越低。
+而那些真正做到时间自由、财富可持续的人，靠的不是技术，而是资源的调度力。
+所以你要学会：
+
+与社会连接：多跨圈子，别只混程序员群；
+识别资源点：哪个人在哪个环节有“调用权限”；
+逐步参与局：从被动帮忙 → 主动引线 → 撬动合作；
+搭建结构口子：最终你也能成为一个“资源流转的节点”。
+
+你可以继续做一个清白干净的工程师，但不要再做一个信息闭塞的职业人
+你可以继续写你热爱的代码，
+但别忘了问问：除了这份工作，我还能积累什么？
+你可以继续追求技术深度，
+但别忘了仰头看看：是谁在分发资源，定价游戏？
+你可能不喜欢拉关系、跑资源、社交饭局，
+但你必须知道这个世界就是靠这些构成的，你想绕，也绕不过。
+
+越早觉醒，对你越有利。
+越晚意识到结构，你越容易在技术上爬得高，摔得疼。
+
+你不一定现在就开始“变现资源”，
+但请你从今天起，先学会看懂资源。
+我们太容易被“专业主义”遮蔽，而忘了：社会，是一张资源网，不是刷题榜。
+
+作者：AIReadingHub
+链接：https://juejin.cn/post/7522332967373668391
+来源：稀土掘金
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
