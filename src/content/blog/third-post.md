@@ -1,7 +1,7 @@
 ---
 title: '毕业照'
 description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 22 2022'
+pubDate: 'Jul 1 2025'
 heroImage: '../../assets/blog-placeholder-2.jpg'
 ---
 
