@@ -1,7 +1,7 @@
 ---
 title: '互联网人，为什么你越来越能干，路却越走越窄？换个体制内视角看看'
 description: 'Lorem ipsum dolor sit amet'
-pubDate: '20250703'
+pubDate: 'Jul 3 2025'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 ---
 
