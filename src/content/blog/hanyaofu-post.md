@@ -1,12 +1,12 @@
 ---
 title: '寒窑赋'
 description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 07 2025'
+pubDate: 'Jul 24 2025'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
 
 《寒窑赋》
-<br/>
+
   《破窑赋》，又名《寒窑赋》、《劝世章》，是北宋贤宰相吕蒙正的作品（存疑），吕蒙正曾任当时太子（即位后为宋真宗）的太子太傅，这篇文章吕蒙正为了劝诫太子而创作的。
   
 《寒窑赋》原文如下：
